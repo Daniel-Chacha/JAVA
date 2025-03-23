@@ -41,13 +41,12 @@ public class bcsLesson2 {
     public static  void setClassVariables(){
         System.out.println("Enter the  value for class Variable");
         classVariable = takeInput.nextLine();
-
-
     }
 
     public  void setInstanceVariable(){
         // bcsLesson2 v1= new bcsLesson2();
         System.out.println("Enter the value for instance variable");
         instanceVariable = takeInput.nextLine();
+        
     }
 }

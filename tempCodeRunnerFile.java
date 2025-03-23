@@ -1,5 +1,2 @@
-public Patient(String x, String y, Short z){
-    //     name = x;
-    //     gender =y;
-    //     yoB = z;
-    // }
+Triangle t1 = new Triangle();
+        // t1.getArea();

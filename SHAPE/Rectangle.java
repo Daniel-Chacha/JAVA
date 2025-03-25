@@ -1,3 +1,4 @@
+package SHAPE;
 public class Rectangle extends Shape{
     public void getArea(){
         float area = dimension1 * dimension2;

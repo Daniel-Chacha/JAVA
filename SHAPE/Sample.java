@@ -1,3 +1,4 @@
+package SHAPE;
 public interface Sample {
     public final String name ="MMU";
 
